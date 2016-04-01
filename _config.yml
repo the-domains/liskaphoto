@@ -1,6 +1,6 @@
 name: Liskaphoto
 favicon: null
-layout_spectrum: 0.7051496531348675
+layout_spectrum: 0.24939
 typography_spectrum: 0.10273593431338668
 title: 'photo video & design'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.23879231233149767
+  brandStrength: 0.1875
   lightness: 0.3431170948315412
   saturation: 0.6997282854281366
   rhythmicContrast: 0.12107735243625939

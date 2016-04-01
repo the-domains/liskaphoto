@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[photo video & design]]></title>
-        <description><![CDATA[photo video & design]]></description>
+        <title><![CDATA[Liskaphoto]]></title>
+        <description><![CDATA[Liskaphoto]]></description>
         <link>https://thegrid.ai/liskaphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 15:43:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/liskaphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d81f0eec-2206-47da-af0a-4c2560f00c3e.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e97c683-3a9f-458b-8fca-95018443dd36.jpg">]]></description>
             <link>https://thegrid.ai/liskaphoto/9233b2eb-822e-40d8-8eca-e41579eac1b8/index.html</link>
             <guid isPermaLink="false">9233b2eb-822e-40d8-8eca-e41579eac1b8</guid>
-            <pubDate>Fri, 01 Apr 2016 14:39:28 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 15:43:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
